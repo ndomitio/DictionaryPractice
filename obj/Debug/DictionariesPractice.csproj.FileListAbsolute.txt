@@ -1,0 +1,7 @@
+C:\Users\WeCanCodeIT\source\repos\DictionariesPractice\DictionariesPractice\bin\Debug\DictionariesPractice.exe.config
+C:\Users\WeCanCodeIT\source\repos\DictionariesPractice\DictionariesPractice\bin\Debug\DictionariesPractice.exe
+C:\Users\WeCanCodeIT\source\repos\DictionariesPractice\DictionariesPractice\bin\Debug\DictionariesPractice.pdb
+C:\Users\WeCanCodeIT\source\repos\DictionariesPractice\DictionariesPractice\obj\Debug\DictionariesPractice.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\source\repos\DictionariesPractice\DictionariesPractice\obj\Debug\DictionariesPractice.csproj.CoreCompileInputs.cache
+C:\Users\WeCanCodeIT\source\repos\DictionariesPractice\DictionariesPractice\obj\Debug\DictionariesPractice.exe
+C:\Users\WeCanCodeIT\source\repos\DictionariesPractice\DictionariesPractice\obj\Debug\DictionariesPractice.pdb
